@@ -20,6 +20,9 @@ class Stack:
     def size(self):
         return len(self.container)
 
+    # def get_min(self):
+
+
 
 def is_balanced(s):
     stack = []
